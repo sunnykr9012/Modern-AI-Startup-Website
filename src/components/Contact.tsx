@@ -22,7 +22,7 @@ export default function Contact() {
           <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
             <Phone className="h-8 w-8 text-purple-600 mb-4" />
             <h3 className="text-xl font-semibold mb-2">Call Us</h3>
-            <p className="text-gray-600">971880952</p>
+            <p className="text-gray-600">9718809529</p>
           </div>
           <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
             <MessageSquare className="h-8 w-8 text-purple-600 mb-4" />
