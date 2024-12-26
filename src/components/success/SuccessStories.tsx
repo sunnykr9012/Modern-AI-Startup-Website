@@ -3,7 +3,7 @@ import GradientText from '../shared/GradientText';
 
 const stories = [
   {
-    company: 'TechCorp',
+    company: 'AI Start',
     image: 'https://images.unsplash.com/photo-1560179707-f14e90ef3623?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80',
     quote: 'AI Start helped us increase our efficiency by 300% within just 6 months.',
     author: 'Sunny',
@@ -13,7 +13,7 @@ const stories = [
     company: 'DataFlow',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80',
     quote: 'The AI solutions provided by NexusAI transformed our business operations completely.',
-    author: 'Michael Chen',
+    author: '-',
     role: 'CEO'
   }
 ];

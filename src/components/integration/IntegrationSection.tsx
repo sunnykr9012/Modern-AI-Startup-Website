@@ -58,21 +58,9 @@ export default function IntegrationSection() {
             </div>
           ))}
         </div>
-        <div className="mt-16 text-center">
-          <div className="bg-gray-800 p-6 rounded-xl inline-block">
-            <pre className="text-left overflow-x-auto">
-              <code className="text-purple-400">
-                {`// Example API Integration
-const nexusAI = new NexusAI('your-api-key');
-
-const response = await nexusAI.analyze({
-  text: "Your content here",
-  model: "advanced-nlp"
-});`}
-              </code>
-            </pre>
-          </div>
-        </div>
+        
+          
+       
       </div>
     </section>
   );
